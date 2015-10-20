@@ -1,0 +1,9 @@
+/.*
+!/.gitignore
+bower_components/
+dist/node_modules/
+dist/*.zip
+node_modules/
+output/
+tmp/
+npm-debug.log

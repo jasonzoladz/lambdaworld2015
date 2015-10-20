@@ -1,0 +1,14 @@
+{
+  "name" : "purescript-lambdify",
+  "version" : "0.1.0",
+  "description" : "Purescript library to create AWS Lambda functions.",
+  "license" : "MIT",
+  "authors" : [
+    "Luis Vicente <langel.vicente@gmail.com>"
+  ],
+  "devDependencies" : {
+    "gulp" : "^3.9.0",
+    "gulp-purescript" : "^0.5.0",
+    "gulp-run" : "~1.6.11"
+  }
+}
